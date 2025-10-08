@@ -1,4 +1,4 @@
-<img src="https://github.com/catherineisonline/social-proof-section-frontendmentor/blob/main/images/project-preview.png?raw=true" ></img>
+<img src="https://raw.githubusercontent.com/emilyaiinsight/social-proof-section/refs/heads/main/images/project-preview.png" ></img>
 
 <h1 align="center">Social proof section</h1>
 
@@ -48,3 +48,4 @@ Another great project to practise some grid layout and flexbox. Hardest part was
 ## Acknowledgments
 
 A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/social-proof-section-VuyCscZZL">solution</a>. It definitely helps to find new ways to code and find easier solutions!
+
